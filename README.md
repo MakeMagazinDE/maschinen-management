@@ -4,18 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Projektname
+# Platzmanagement für Maschinen
 
-## Erklärende Unterzeile (optional)
+**Wer nicht jeder Maschine einen festen Platz in der Werkstatt geben kann, muss die Geräte häufig tauschen. Damit dieser Wechsel schneller von der Hand geht, habe ich mir ein Adapterplatten-System einfallen lassen.**
 
-**Vorspann aus dem Heft**
+![Aufmacherbild aus dem Heft](./doc/flexibleWerkstatt_quer.jpg)
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
+Hier liegt die Grafik der Bohrschablone aus dem Artikel.
 
-## Wer den Aufmacher skalieren muss:
-<img src="./doc/Aufmacher.JPG" width="50%" height="50%">
-
-Hier gibt es !!! ein Template für die README.md in Github. Das Aufmacherbild sowie weitere Doku soll in den Ordner _doc_. Bitte für andere Dateien sinnvolle Ordner anlegen, etwa _src_ oder _cad_.
-ISSUES UND WIKI DEAKTIVIEREN NICHT VERGESSEN.
-
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 6/26](https://www.heise.de/select/make/2026/6)**.
